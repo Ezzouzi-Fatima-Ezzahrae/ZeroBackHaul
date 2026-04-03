@@ -1,0 +1,11 @@
+Ville,Latitude,Longitude,Volume,Profit,Region
+Casablanca,33.5731,-7.5898,1000,500,Local
+Rabat,34.0209,-6.8416,800,300,Local
+Fes,34.0333,-5.0000,1200,400,Local
+Marrakech,31.6295,-7.9811,900,350,Local
+Tanger,35.7595,-5.8339,700,250,Local
+Paris,48.8566,2.3522,1500,800,International
+Madrid,40.4168,-3.7038,1200,650,International
+Berlin,52.5200,13.4050,2000,900,International
+Lisbonne,38.7169,-9.1398,1100,700,International
+Rome,41.9028,12.4964,1300,750,International
