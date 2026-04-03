@@ -23,7 +23,7 @@ st.caption("Detect empty trucks and optimize their routes for profit, fuel savin
 # -----------------------------
 # GEMINI CLIENT
 # -----------------------------
-client = genai.Client(api_key="AIzaSyBcS5Ve1dA6zq-uf2pBR60kbzkxboTMNUc")  # replace with your API key
+client = genai.Client(api_key="your api key")  # replace with your API key
 
 # -----------------------------
 # FUNCTIONS
